@@ -1,28 +1,25 @@
 
 ![Header GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozZ2J0bm1kczUzbjlzYnFsaWZyazhneWtvZndhNmo4OXdrOG14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IkJBcA4Ino1Ce5vr0X/giphy.gif)
 
-### Hi there 👋
+<!--
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+-->
 
-## 🚀 Technologies and Tools
-![Java]([https://img.shields.io/badge/-Java-000?&logo=java](https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)](https://img.shields.io/badge/-Java-000?&logo=java))
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-[HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/incipit.chaos) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nando218&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nando218&theme=shadow_green&hide_border=false)<br/>
 
 
-## 🔧 Featured Projects
-- 
-- 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nando218&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
-## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando218&show_icons=true&theme=radical)
-
-## 🌍 Connect with Me
-- [LinkedIn]()
-- [Twitter]()
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Nando218/Nando218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
