@@ -4,9 +4,14 @@
 ### Hi there 👋
 
 ## 🚀 Technologies and Tools
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+[HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+
 
 ## 🔧 Featured Projects
 - 
