@@ -1,9 +1,17 @@
 
 ![Header GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozZ2J0bm1kczUzbjlzYnFsaWZyazhneWtvZndhNmo4OXdrOG14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IkJBcA4Ino1Ce5vr0X/giphy.gif)
 
-<!--
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- I am currently studying Web Application Development.<br>
+- Graphic design lover. <br>
+- Frontend enthusiast.<br>
+- Video game enjoyer. <br>
+- Constantly learning.<br>
+<!--
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact
 -->
 
 ## 🌐 Socials:
