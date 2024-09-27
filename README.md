@@ -3,6 +3,22 @@
 
 ### Hi there 👋
 
+## 🚀 Technologies and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+
+## 🔧 Featured Projects
+- 
+- 
+
+## 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando218&show_icons=true&theme=radical)
+
+## 🌍 Connect with Me
+- [LinkedIn]()
+- [Twitter]()
+
 <!--
 **Nando218/Nando218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
