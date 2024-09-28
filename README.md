@@ -1,6 +1,6 @@
-
+<div id="header" align="center">
 ![Header GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozZ2J0bm1kczUzbjlzYnFsaWZyazhneWtvZndhNmo4OXdrOG14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IkJBcA4Ino1Ce5vr0X/giphy.gif)
-
+</div>
 
 # 💫 About Me:
 - I am currently studying Web Application Development.<br>
