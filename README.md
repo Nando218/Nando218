@@ -1,6 +1,7 @@
 <div align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWozZ2J0bm1kczUzbjlzYnFsaWZyazhneWtvZndhNmo4OXdrOG14YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IkJBcA4Ino1Ce5vr0X/giphy.gif" alt="Header GIF" width="500"/>
+ <img src="https://res.cloudinary.com/dgzgzx9ov/image/upload/v1753874462/2025-07-29_15-07-57_online-video-cutter.com_1_jmqsls.gif" alt="Header GIF" width="500"/>
 </div>
+
 
 # 💫 About Me:
 - I am currently studying Web Application Development.<br>
