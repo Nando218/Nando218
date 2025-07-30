@@ -1,10 +1,10 @@
 <div align="center">
- <img src="https://res.cloudinary.com/dgzgzx9ov/image/upload/v1753874462/2025-07-29_15-07-57_online-video-cutter.com_1_jmqsls.gif" alt="Header GIF" width="500"/>
+ <img src="https://res.cloudinary.com/dgzgzx9ov/image/upload/v1753874462/2025-07-29_15-07-57_online-video-cutter.com_1_jmqsls.gif" alt="Header GIF" />
 </div>
 
 
 # 💫 About Me:
-- I am currently studying Web Application Development.<br>
+- Web Developer.<br>
 - Graphic design lover. <br>
 - Frontend enthusiast.<br>
 - Video game enjoyer. <br>
